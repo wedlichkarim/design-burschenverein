@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Burschenverein Pleussen//Fahnenweihe 2027//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fahnenweihe-2027@burschenverein-pleussen.de
+DTSTAMP:20261110T120000Z
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270726
+SUMMARY:Fahnenweihe & 5 Jahre Burschenverein Pleußen
+LOCATION:Kirchsteig 16\, 95666 Pleußen
+DESCRIPTION:Bieranstich\, Festabend\, Fahnenweihe & Festumzug
+URL:https://www.burschenverein-pleussen.de/jubilaeum/
+END:VEVENT
+END:VCALENDAR
